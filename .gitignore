@@ -103,3 +103,9 @@
 */*/*/bd/*/ip/*/*.tcl
 hw_handoff
 ipshared
+
+# COCOTB Files
+__pycache__/
+sim_build/
+results.xml
+waveform.vcd

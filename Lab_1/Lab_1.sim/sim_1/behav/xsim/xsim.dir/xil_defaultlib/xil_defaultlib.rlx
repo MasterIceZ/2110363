@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/maste/Documents/2110363/Lab_1/Lab_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab1/sim/MultiplexerTB.v,1736694649,verilog,,,,MultiplexerTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab1/sim/SevenSegmentDecoderTB.v,1736700014,verilog,,,,SevenSegmentDecoderTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab1/sim/SystemTB.v,1736694649,verilog,,,,SystemTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab1/src/Controller.v,1736694649,verilog,,C:/Users/maste/Downloads/lab/Lab1/src/Multiplexer.v,,Controller,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab1/src/Multiplexer.v,1736696553,verilog,,C:/Users/maste/Downloads/lab/Lab1/src/SevenSegmentDecoder.v,,Multiplexer,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab1/src/SevenSegmentDecoder.v,1736701338,verilog,,C:/Users/maste/Downloads/lab/Lab1/src/System.v,,SevenSegmentDecoder,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab1/src/System.v,1736700859,verilog,,C:/Users/maste/Downloads/lab/Lab1/sim/SystemTB.v,,System,,,,,,,,
