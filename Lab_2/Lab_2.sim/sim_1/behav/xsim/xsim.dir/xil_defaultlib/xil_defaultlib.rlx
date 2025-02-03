@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/maste/Documents/2110363/Lab_2/Lab_2.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/sim/DebouncerTB.v,1736694649,verilog,,,,DebouncerTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/sim/InputSanitizerTB.v,1737291376,verilog,,,,InputSanitizerTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/sim/SevenSegmentControllerTB.v,1738047970,verilog,,,,SevenSegmentControllerTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/sim/SevenSegmentDisplayTB.v,1738048423,verilog,,,,SevenSegmentDisplayTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/sim/SinglePulserTB.v,1737443182,verilog,,,,SinglePulserTB,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/src/Debouncer.v,1737439398,verilog,,C:/Users/maste/Downloads/lab/Lab2/src/InputSanitizer.v,,Debouncer,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/src/InputSanitizer.v,1737444220,verilog,,C:/Users/maste/Downloads/lab/Lab2/src/SinglePulser.v,,InputSanitizer,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/src/Multiplexer.v,1738045575,verilog,,C:/Users/maste/Downloads/lab/Lab2/src/SevenSegmentController.v,,Multiplexer,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/src/SevenSegmentController.v,1738049652,verilog,,C:/Users/maste/Downloads/lab/Lab2/src/SevenSegmentDecoder.v,,SevenSegmentController,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/src/SevenSegmentDecoder.v,1737291376,verilog,,C:/Users/maste/Downloads/lab/Lab2/src/SevenSegmentDisplay.v,,SevenSegmentDecoder,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/src/SevenSegmentDisplay.v,1738048822,verilog,,C:/Users/maste/Downloads/lab/Lab2/sim/SevenSegmentDisplayTB.v,,SevenSegmentDisplay,,,,,,,,
+C:/Users/maste/Downloads/lab/Lab2/src/SinglePulser.v,1737443223,verilog,,C:/Users/maste/Downloads/lab/Lab2/sim/InputSanitizerTB.v,,SinglePulser,,,,,,,,

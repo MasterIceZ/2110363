@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../Downloads/lab/Lab2/src/Multiplexer.v" \
+"../../../../../../../Downloads/lab/Lab2/src/SevenSegmentController.v" \
+"../../../../../../../Downloads/lab/Lab2/src/SevenSegmentDecoder.v" \
+"../../../../../../../Downloads/lab/Lab2/src/SevenSegmentDisplay.v" \
+"../../../../../../../Downloads/lab/Lab2/sim/SevenSegmentDisplayTB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
